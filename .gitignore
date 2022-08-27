@@ -13,8 +13,8 @@
 # Used by dotenv library to load environment variables.
 # .env
 
-# My config file
-*config.txt
+# Hide text files
+*.txt
 
 # Ignore Byebug command history file.
 .byebug_history

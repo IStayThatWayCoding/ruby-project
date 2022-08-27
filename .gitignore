@@ -14,7 +14,7 @@
 # .env
 
 # My config file
-config.txt
+*config.txt
 
 # Ignore Byebug command history file.
 .byebug_history
